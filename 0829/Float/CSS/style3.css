@@ -1,0 +1,9 @@
+div {
+  border: 3px solid #73ad21;
+}
+.img1 {
+  float: right;
+}
+.fix {
+  overflow: auto;
+}

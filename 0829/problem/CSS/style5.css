@@ -1,0 +1,18 @@
+p {
+  padding-left: 50px;
+}
+div {
+  border: 2px solid gold;
+}
+ol {
+  list-style-type: none;
+}
+span {
+  position: absolute;
+  font-size: 32px;
+
+  color: aquamarine;
+}
+div h3 {
+  text-align: center;
+}

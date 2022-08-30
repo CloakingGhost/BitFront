@@ -1,0 +1,19 @@
+p {
+  background-color: yellow;
+  color: red;
+  font-weight: bold;
+  font-size: 16pt;
+}
+p.pad {
+  color: purple;
+  padding: 20px;
+}
+p.mar {
+  color: green;
+  padding: 30px;
+}
+p.mp {
+  color: blue;
+  padding: 5%;
+  margin: 5%;
+}

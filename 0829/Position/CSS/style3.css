@@ -1,0 +1,26 @@
+.ap1 {
+  position: absolute;
+  left: 30px;
+  top: 70px;
+  background-color: yellow;
+  width: 400px;
+  height: 50px;
+  opacity: 0.75;
+}
+.ap2 {
+  position: absolute;
+  left: 40px;
+  top: 90px;
+  background-color: lightgreen;
+  width: 400px;
+  height: 50px;
+}
+
+.rp {
+  position: relative;
+  left: 50px;
+  top: 80px;
+  background-color: cyan;
+  width: 400px;
+  height: 50px;
+}

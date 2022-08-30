@@ -1,0 +1,8 @@
+/* div 안에 있는 모든 태그들 중 ~ 이라는 뜻 */
+div ul {
+  color: red;
+}
+div h2 {
+  color: yellow;
+  background-color: plum;
+}

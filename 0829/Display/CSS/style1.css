@@ -1,0 +1,12 @@
+.v1 {
+  visibility: hidden;
+  border: 1px dotted red;
+}
+.v2 {
+  visibility: visible;
+  border: 1px dotted red;
+}
+.v3 {
+  display: none;
+  border: 1px dotted red;
+}

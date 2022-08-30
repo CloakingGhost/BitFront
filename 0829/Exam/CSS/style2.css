@@ -1,0 +1,9 @@
+span {
+  text-decoration: underline;
+  font-size: 25px;
+}
+p {
+  color: brown;
+  text-indent: 1em;
+  background-color: rgb(178, 198, 236);
+}

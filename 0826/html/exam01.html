@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>이곳이 페이지 이름</title>
+  </head>
+  <style>
+    body {
+      background-color: #fff;
+    }
+    h1 {
+      color: brown;
+      display: flex;
+      align-items: center;
+      align-content: center;
+    }
+    a {
+      text-decoration: none;
+    }
+    img {
+      border-radius: 30px;
+    }
+  </style>
+  <body>
+    <img
+      src="/0826/images/cats.jpg"
+      width="600"
+      hieght="400"
+      alt=""
+      border="2"
+    />
+    <h1>Google</h1>
+
+    <p>
+      <a href="https://www.Google.com" target="_self">방문1</a><br />
+      <a href="https://www.Google.com" target="_blank">방문2</a><br />
+      <a href="/0826/images/cats.jpg">Meow</a>
+      <a href="http://127.0.0.1:5500/0826/images/cats.jpg">Meow</a>
+    </p>
+
+    <table border="1">
+      <caption>
+        등장인물
+      </caption>
+      <tr>
+        <th>아이디</th>
+        <th>이름</th>
+        <th>소속</th>
+      </tr>
+      <tr>
+        <td>conan</td>
+        <td>코난</td>
+        <td rowspan="2">청솔초등학교</td>
+      </tr>
+      <tr>
+        <td>rose</td>
+        <td>장미</td>
+      </tr>
+      <tr>
+        <td colspan="3">열병합</td>
+      </tr>
+    </table>
+    <table border="1">
+      <tr>
+        <td whidth="50%">
+          <ul>
+            <li>1번</li>
+            <li>2번</li>
+          </ul>
+        </td>
+        <td>
+          <ol>
+            <li>3번</li>
+            <li>4번</li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>어떤 요소은 OK</p>
+        </td>
+        <td>
+          <img src="/0826/images/awr@2x.png" width="300" />
+        </td>
+      </tr>
+    </table>
+    <table border="1">
+      <caption>
+        Caption
+      </caption>
+      <colgroup>
+        <col span="2" style="background-color: rgb(251, 116, 116)" />
+        <col style="background-color: rgb(150, 150, 231)" />
+      </colgroup>
+      <thead style="background-color: deeppink">
+        <tr>
+          <th colspan="3">Table Header</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Table data</td>
+          <td>Table data</td>
+          <td>Table data</td>
+        </tr>
+      </tbody>
+      <tfoot style="background-color: aqua">
+        <tr>
+          <td>Table data</td>
+          <td>Table data</td>
+          <td>Table data</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>

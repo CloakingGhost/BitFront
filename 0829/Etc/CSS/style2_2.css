@@ -1,0 +1,16 @@
+.backgound {
+  background: url(/0826/images/cats.jpg) repeat;
+  border: 1px solid black;
+}
+.box {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 2px solid blue;
+  opacity: 0.5;
+}
+.box p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+}

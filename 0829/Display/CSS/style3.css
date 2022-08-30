@@ -1,0 +1,7 @@
+ul.in li {
+  display: inline;
+  background-color: bisque;
+  border: 1px solid gray;
+  margin: 3px;
+  padding: 5px;
+}

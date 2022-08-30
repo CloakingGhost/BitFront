@@ -1,0 +1,21 @@
+p {
+  background-color: yellow;
+  color: red;
+  font-weight: bold;
+  font-size: 16pt;
+}
+p.c1 {
+  width: 700 px;
+  height: 800 px;
+  color: green;
+}
+p.c2 {
+  width: 50%;
+  height: 150%;
+  color: purple;
+}
+p.c3 {
+  width: 10cm;
+  height: 3cm;
+  color: blue;
+}

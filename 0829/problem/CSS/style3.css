@@ -1,0 +1,15 @@
+ul {
+  list-style-type: square;
+  display: inline-block;
+  background-color: aliceblue;
+  padding-right: 10px;
+}
+img {
+}
+
+li {
+  width: 300px;
+}
+li:hover {
+  background-color: yellowgreen;
+}

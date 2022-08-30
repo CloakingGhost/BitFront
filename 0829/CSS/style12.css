@@ -1,0 +1,10 @@
+body > div > h3 {
+  color: red;
+}
+body > p {
+  color: green;
+  background-color: yellow;
+}
+body > div > h3 > tel > mobile {
+  color: blue;
+}

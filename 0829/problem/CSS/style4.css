@@ -1,0 +1,20 @@
+#menubar {
+  background-color: olive;
+  display: inline-block;
+}
+#menubar ul {
+  margin: 0;
+  padding: 0;
+}
+#menubar ul li {
+  width: 150px;
+  list-style-type: none;
+  padding: 0px 15px;
+}
+#menubar ul li a {
+  color: white;
+  text-decoration: none;
+}
+#menubar ul li a:hover {
+  color: violet;
+}

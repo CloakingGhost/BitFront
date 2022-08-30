@@ -1,0 +1,17 @@
+.font_big {
+  font-size: 2em;
+}
+.font_italic {
+  font-style: italic;
+}
+.font_bold {
+  font-weight: bold;
+}
+
+.font_center {
+  background-color: orange;
+  text-align: center;
+}
+.font_right {
+  text-align: right;
+}

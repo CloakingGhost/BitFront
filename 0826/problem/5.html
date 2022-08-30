@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h2>회원 가입 화면</h2>
+    <form action="input.html" method="get">
+      이름 : <input type="text" name="name" /><br />
+      주소 : <input type="text" name="address" /><br />
+      email: <input type="email" name="email" /><br />
+      성별 <br />
+      <input type="radio" name="gender" id="male" value="mail" />
+      <label for="male">남성</label><br />
+      <input type="radio" name="gender" id="female" value="femail" />
+      <label for="female">여성</label><br />
+      <input type="submit" name="submit" value="제출" />
+      <input type="reset" value="초기화" />
+    </form>
+    <br />
+    <div style="display: inline-block; width: 300px">
+      <form name="input" action="input.html" method="get">
+        <fieldset>
+          <legend>신상정보</legend>
+          이름 : <input type="text" name="name" /><br />
+          전화번호 : <input type="email" name="email" /><br />
+          주소 : <input type="tel" name="tel" />
+        </fieldset>
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+p[text] {
+  color: tomato;
+}
+p[text="red"] {
+  color: yellow;
+  background-color: violet;
+}

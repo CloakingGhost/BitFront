@@ -1,0 +1,14 @@
+p {
+  margin: 25px;
+  color: cadetblue;
+  font-weight: bolder;
+  border: 5px solid navy;
+  padding: 10px;
+}
+
+img {
+  width: 150px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+}

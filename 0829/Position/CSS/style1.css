@@ -1,0 +1,19 @@
+.sp1 {
+  position: static;
+  /* top: 100px; */
+  background-color: cyan;
+  width: 400px;
+  height: 50px;
+}
+.sp2 {
+  position: static;
+  /* left: 30px; */
+  background-color: orange;
+  width: 400px;
+  height: 50px;
+}
+.sp3 {
+  background-color: lightgreen;
+  width: 400px;
+  height: 50px;
+}

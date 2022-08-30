@@ -1,0 +1,9 @@
+p strong {
+  color: aquamarine;
+  border: 1px dotted tomato;
+}
+p.bk strong {
+  display: block;
+  color: aquamarine;
+  border: 1px dotted tomato;
+}

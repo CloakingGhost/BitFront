@@ -1,0 +1,16 @@
+/* 색표현의 방법은 3가지 */
+
+li:first-child {
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+}
+li:last-child {
+  color: purple;
+  font-weight: bold;
+}
+li:nth-child(2n) {
+  background-color: #00ffff;
+}
+li:nth-child(2n + 1) {
+  background-color: #ffff00;
+}

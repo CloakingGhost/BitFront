@@ -1,0 +1,12 @@
+a:link {
+  opacity: 0.5;
+}
+a:hover {
+  opacity: 1;
+}
+img {
+  opacity: 0.2;
+}
+img:hover {
+  opacity: 1;
+}
